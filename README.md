@@ -54,6 +54,6 @@ Sliver Solution https://www.kaggle.com/c/cassava-leaf-disease-classification/sub
 
 2.somelibs.zip # 一些训练所需的python包，请解压到代码中变量libdir对应路径下
 
-3.soft_targets_2020.csv # https://www.kaggle.com/nickuzmenkov/cassava-leaf-disease-soft-targets-09-model，里面有详细说明
+3.soft_targets_2020.csv # https://www.kaggle.com/nickuzmenkov/cassava-leaf-disease-soft-targets-09-model 里面有详细说明
 
 4.final_output 是最终银牌方案的模型，一共15个（5个EfficientNet B4，5个resnest101e， 5个vit_base_patch16_384），都选取了5fold中每个fold中的最好的一个epoch。
