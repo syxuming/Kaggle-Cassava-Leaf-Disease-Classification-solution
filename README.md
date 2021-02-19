@@ -3,9 +3,11 @@ Sliver Solution https://www.kaggle.com/c/cassava-leaf-disease-classification/sub
 
 一、比赛介绍
 本次比赛是图像分类，根据木薯的叶子状态判断其是否健康，或者得的是什么病。
+
 本次比赛难点是，官方给的训练数据有非常大噪音（很多图片的label标注是错误的）
 
 二、我们的银牌解决方案是以下三个模型的Ensemble得到的：
+
 1.EfficientNet-B4 （Public LB 0.902）
 2.resnest101e （Public LB 0.899）
 3.vit_base_patch16_384 （Public LB 0.897）
