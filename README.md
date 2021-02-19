@@ -1,6 +1,7 @@
 # kaggle-Cassava-Leaf-Disease-Classification-Solution
-Sliver Solution https://www.kaggle.com/c/cassava-leaf-disease-classification/submissions
+https://www.kaggle.com/c/cassava-leaf-disease-classification/
 
+Sliver Solution
 
 一、比赛介绍
 
